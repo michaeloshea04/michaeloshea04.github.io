@@ -84,6 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #fff;
+		
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2700,7 +2701,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #4acaa8; /*Update this for background to change*/
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
