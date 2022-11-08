@@ -2701,7 +2701,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8; /*Current colour = #4acaa8.  Update this for background to change*/
+		background: #26303e; /*Current colour = #4acaa8.  Update this for background to change*/
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2790,7 +2790,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-top: solid 2px #4acaa8;
 					display: block;
 					padding: 0;
 				}
@@ -2808,7 +2808,7 @@ input, select, textarea {
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: #4c5562;
 							color: #4acaa8 !important;
 						}
 
@@ -2819,7 +2819,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background: #26303e;
 		padding-right: 23em;
 	}
 
@@ -2840,7 +2840,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #26303e;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
