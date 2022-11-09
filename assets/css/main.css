@@ -2701,7 +2701,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #26303e; /*Current colour = #4acaa8.  Update this for background to change*/
+		background: linear-gradient(180deg,#161b2d, #1b2a4e); /*Current colour = #4acaa8.  Update this for background to change*/
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2819,7 +2819,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #26303e;
+		background: linear-gradient(180deg, #161b2d,#1b2a4e) ;
 		padding-right: 23em;
 	}
 
@@ -2840,7 +2840,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #26303e;
+		background: linear-gradient(180deg, #1b2a4e #161b2d);
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
